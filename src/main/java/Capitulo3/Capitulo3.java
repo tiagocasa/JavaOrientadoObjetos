@@ -1,15 +1,9 @@
+package Capitulo3;
+
 public class Capitulo3 {
 
-    public String despesas(){
-        int janeiro = 15;
-        int fevereiro = 23;
-        int marco = 17;
-        int despesatri= janeiro+fevereiro+marco;
-        int media = despesatri/3;
-        return "Despesa do Trimestre: "+ despesatri +"; Média mensal de gastos: "+media;
-    }
-
     // Lista 3.13
+
     public void exe1(){
         for (int i = 150; i<=300;i++){
             System.out.println(i);

@@ -1,3 +1,6 @@
+package Capitulo3;
+
+import Capitulo3.Capitulo3;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -9,11 +12,6 @@ public class TestCapitulo3 {
     @BeforeEach
     void inicializacao(){
         cap3 = new Capitulo3();
-    }
-
-    @Test
-    public void exercicio32(){
-       assertEquals("1", cap3.despesas());
     }
 
     @Test
