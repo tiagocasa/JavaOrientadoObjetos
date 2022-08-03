@@ -4,17 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17c2ffbc-c2c3-4e1d-891e-a7d22f49c922" name="Changes" comment="Capitulo 3">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo4/Casa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo4/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo4/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo4/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo4/Porta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Capitulo4/TestCapitulo4.java" afterDir="false" />
+    <list default="true" id="17c2ffbc-c2c3-4e1d-891e-a7d22f49c922" name="Changes" comment="Capitulo 4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo10/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo10/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo5/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo9/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo9/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo9/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo9/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo9/ManipuladorDeContas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Capitulo10/TestCapitulo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Capitulo5/TestCapitulo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Capitulo9/TestCapitulo9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Capitulo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Capitulo3/Capitulo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestCapitulo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Capitulo3/TestCapitulo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Capitulo4/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Capitulo4/Conta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,85 +47,101 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/tiagocasagrande/IdeaProjects/JavaOrientadoObjetos/src/main/java/Capitulo5",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Capitulo5" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Capitulo4" />
       <recent name="Capitulo3" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Capitulo5" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCapitulo4.programa3">
-    <configuration name="TestCapitulo4.desafio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestCapitulo10.exe7">
+    <configuration name="TestCapitulo10.exe7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaOrientadoObjetos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Capitulo4.*" />
+          <option name="PATTERN" value="Capitulo10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Capitulo4" />
-      <option name="MAIN_CLASS_NAME" value="Capitulo4.TestCapitulo4" />
-      <option name="METHOD_NAME" value="desafio" />
+      <option name="PACKAGE_NAME" value="Capitulo10" />
+      <option name="MAIN_CLASS_NAME" value="Capitulo10.TestCapitulo10" />
+      <option name="METHOD_NAME" value="exe7" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCapitulo4.exercicio5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCapitulo10.exercicio1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaOrientadoObjetos" />
-      <option name="PACKAGE_NAME" value="Capitulo4" />
-      <option name="MAIN_CLASS_NAME" value="Capitulo4.TestCapitulo4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Capitulo10" />
+      <option name="MAIN_CLASS_NAME" value="Capitulo10.TestCapitulo10" />
+      <option name="METHOD_NAME" value="exercicio1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCapitulo5.exercicio5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaOrientadoObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Capitulo5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Capitulo5" />
+      <option name="MAIN_CLASS_NAME" value="Capitulo5.TestCapitulo5" />
       <option name="METHOD_NAME" value="exercicio5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCapitulo4.exercicio7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCapitulo5.exercicio6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaOrientadoObjetos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Capitulo4.*" />
+          <option name="PATTERN" value="Capitulo5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Capitulo4" />
-      <option name="MAIN_CLASS_NAME" value="Capitulo4.TestCapitulo4" />
-      <option name="METHOD_NAME" value="exercicio7" />
+      <option name="PACKAGE_NAME" value="Capitulo5" />
+      <option name="MAIN_CLASS_NAME" value="Capitulo5.TestCapitulo5" />
+      <option name="METHOD_NAME" value="exercicio6" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCapitulo4.programa1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCapitulo9.testeGerente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaOrientadoObjetos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Capitulo4.*" />
+          <option name="PATTERN" value="Capitulo9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Capitulo4" />
-      <option name="MAIN_CLASS_NAME" value="Capitulo4.TestCapitulo4" />
-      <option name="METHOD_NAME" value="programa1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCapitulo4.programa3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaOrientadoObjetos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Capitulo4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Capitulo4" />
-      <option name="MAIN_CLASS_NAME" value="Capitulo4.TestCapitulo4" />
-      <option name="METHOD_NAME" value="programa3" />
+      <option name="PACKAGE_NAME" value="Capitulo9" />
+      <option name="MAIN_CLASS_NAME" value="Capitulo9.TestCapitulo9" />
+      <option name="METHOD_NAME" value="testeGerente" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestCapitulo4.programa3" />
-        <item itemvalue="JUnit.TestCapitulo4.programa1" />
-        <item itemvalue="JUnit.TestCapitulo4.desafio" />
-        <item itemvalue="JUnit.TestCapitulo4.exercicio7" />
-        <item itemvalue="JUnit.TestCapitulo4.exercicio5" />
+        <item itemvalue="JUnit.TestCapitulo10.exe7" />
+        <item itemvalue="JUnit.TestCapitulo10.exercicio1" />
+        <item itemvalue="JUnit.TestCapitulo9.testeGerente" />
+        <item itemvalue="JUnit.TestCapitulo5.exercicio6" />
+        <item itemvalue="JUnit.TestCapitulo5.exercicio5" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659380008435</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Capitulo 4">
+      <created>1659444004157</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659444004157</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +204,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Capitulo 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Capitulo 3" />
+    <MESSAGE value="Capitulo 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Capitulo 4" />
   </component>
 </project>

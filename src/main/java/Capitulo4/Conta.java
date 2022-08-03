@@ -14,6 +14,9 @@ public class Conta {
             }
         }
 
+        public String getTipo(){
+            return "Conta";
+        }
         public void depositar(int valor){
             this.saldo += valor;
         }
