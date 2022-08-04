@@ -4,20 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17c2ffbc-c2c3-4e1d-891e-a7d22f49c922" name="Changes" comment="Capitulo 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo10/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo10/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo5/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo9/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo9/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo9/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo9/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo9/ManipuladorDeContas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Capitulo10/TestCapitulo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Capitulo5/TestCapitulo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Capitulo9/TestCapitulo9.java" afterDir="false" />
+    <list default="true" id="17c2ffbc-c2c3-4e1d-891e-a7d22f49c922" name="Changes" comment="Capitulo 10">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo11/Autenticavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo11/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo11/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo11/SistemaInterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo12/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Capitulo12/SaldoInsuficienteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Capitulo11/TestCapitulo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Capitulo12/TestCapitulo12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Capitulo4/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Capitulo4/Conta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/tiagocasagrande/IdeaProjects/JavaOrientadoObjetos/src/main/java/Capitulo5",
+    "last_opened_file_path": "/home/tiagocasagrande/IdeaProjects/JavaOrientadoObjetos/src/main/java/Capitulo12",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -56,6 +53,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Capitulo12" />
       <recent name="$PROJECT_DIR$/src/main/java/Capitulo5" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -66,7 +64,7 @@
       <recent name="Capitulo5" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCapitulo10.exe7">
+  <component name="RunManager" selected="JUnit.TestCapitulo12.saldoInsuficiente">
     <configuration name="TestCapitulo10.exe7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaOrientadoObjetos" />
       <extension name="coverage">
@@ -99,33 +97,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCapitulo5.exercicio5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCapitulo11.testeAutentica" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaOrientadoObjetos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Capitulo5.*" />
+          <option name="PATTERN" value="Capitulo11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Capitulo5" />
-      <option name="MAIN_CLASS_NAME" value="Capitulo5.TestCapitulo5" />
-      <option name="METHOD_NAME" value="exercicio5" />
+      <option name="PACKAGE_NAME" value="Capitulo11" />
+      <option name="MAIN_CLASS_NAME" value="Capitulo11.TestCapitulo11" />
+      <option name="METHOD_NAME" value="testeAutentica" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCapitulo5.exercicio6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCapitulo12.saldoInsuficiente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaOrientadoObjetos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Capitulo5.*" />
+          <option name="PATTERN" value="Capitulo12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Capitulo5" />
-      <option name="MAIN_CLASS_NAME" value="Capitulo5.TestCapitulo5" />
-      <option name="METHOD_NAME" value="exercicio6" />
+      <option name="PACKAGE_NAME" value="Capitulo12" />
+      <option name="MAIN_CLASS_NAME" value="Capitulo12.TestCapitulo12" />
+      <option name="METHOD_NAME" value="saldoInsuficiente" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -149,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCapitulo12.saldoInsuficiente" />
+        <item itemvalue="JUnit.TestCapitulo11.testeAutentica" />
         <item itemvalue="JUnit.TestCapitulo10.exe7" />
         <item itemvalue="JUnit.TestCapitulo10.exercicio1" />
         <item itemvalue="JUnit.TestCapitulo9.testeGerente" />
-        <item itemvalue="JUnit.TestCapitulo5.exercicio6" />
-        <item itemvalue="JUnit.TestCapitulo5.exercicio5" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659444004157</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Capitulo 10">
+      <created>1659526054837</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659526054837</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +210,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Capitulo 3" />
     <MESSAGE value="Capitulo 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Capitulo 4" />
+    <MESSAGE value="Capitulo 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Capitulo 10" />
   </component>
 </project>
